@@ -1,0 +1,3 @@
+#restart and reload a running service
+#systemctl systemd reload restart service program
+sudo systemctl {:restart|reload:} {:service:}

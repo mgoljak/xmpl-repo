@@ -1,0 +1,3 @@
+#checking for the given string in multiple files
+#grep find string multiple files
+grep -Ris {:string:} {:searchpath:}

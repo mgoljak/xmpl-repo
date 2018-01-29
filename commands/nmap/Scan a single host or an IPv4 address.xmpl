@@ -1,0 +1,3 @@
+#scan a single host or an ipv4 address
+#nmap scan network ip address info
+nmap -v {:networkaddress:}

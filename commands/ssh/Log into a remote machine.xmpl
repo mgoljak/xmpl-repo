@@ -1,0 +1,3 @@
+#log into a remote machine
+#commect log remote ssh server
+ssh {:remotesshserver:}

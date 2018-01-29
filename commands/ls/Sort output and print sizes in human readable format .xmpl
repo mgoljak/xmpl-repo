@@ -1,0 +1,3 @@
+#sort output and print sizes in human readable format 
+#sort size list ls human format print output
+ls -lSh

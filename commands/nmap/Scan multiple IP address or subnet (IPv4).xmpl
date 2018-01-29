@@ -1,0 +1,3 @@
+#scan multiple ip address or subnet (ipv4)
+#nmap network scan address subnet
+nmap {:ipaddress:}/{:netmask:}

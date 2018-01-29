@@ -1,0 +1,3 @@
+#log into a remote machine with different username
+#user name remote ssh server
+ssh {:username:}@{:remotesshserver:}

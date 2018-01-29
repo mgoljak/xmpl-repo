@@ -1,0 +1,3 @@
+#starting and stopping services
+#start stop service szstemctl systemd
+sudo systemctl {:start|stop:} {:service:}

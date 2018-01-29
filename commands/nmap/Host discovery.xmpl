@@ -1,0 +1,3 @@
+#host discovery
+#scan find running server device
+nmap -sP {:networkaddress:}/{:netmask:}

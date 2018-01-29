@@ -1,0 +1,3 @@
+#execute commands on the remote machine
+#execute command remote ssh server
+ssh {:remotesshserver:} {:command:}
